@@ -1,6 +1,10 @@
 ## The notat itself
 LaTeX/designnotat.pdf
 
+#signed messages PGP
+*.sig
+*.gpg
+
 ## VS code files
 /.vscode
 

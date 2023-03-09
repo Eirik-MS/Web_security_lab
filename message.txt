@@ -1,0 +1,36 @@
+TTT2 is starting! The representatives from each group are:
+
+Board
+@Gina Fasseland & @Aurora Vinslid
+
+Marketing
+@Joachim Haug & @Gaute Ratvik
+
+Data Engineering
+@Brian Johnstad & @Mathias Presthagen
+
+Control Systems
+@Emil Jensen & @Markus Jørgensen
+
+Autonomous Systems
+@Joachim Fredheim & @Tilde Veie
+
+Driver Interface
+@Simen Tufte & @Inge Eliassen
+
+Chassis
+@Vedin Øyulvstad & @Torbjørn Aaberge Nes
+
+Aerodynamics
+@Tobias Binder & @David Velasquez
+
+Suspension & Drivetrain
+@Hemund Øyulvstad & @Marius Johannessen
+
+Power Systems
+@Joakim Saugen & @Uros Piljevic
+
+Embedded Electronics 
+@Eirik Silnes & @Marius Olivier
+
+You can find an overview of who will play who in this sheet, you have a week to play all matches in the group you have been put in. When you are done, please fill in the scores in the sheet. If you have any questions you can ask me. Remember that you are representing your entire group, so do your best!
